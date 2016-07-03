@@ -1,8 +1,13 @@
+//Version 1.5
+//https://github.com/alexanderyleegithub
+//Alexander Lee, Ammar Albaqshi
+
+
 import java.util.Scanner;
 import java.util.*;
 import java.io.*;
 
-//This is a beautiful design that checks for 2 types of sentence patterns:
+//This is a design that checks for 2 types of sentence patterns:
 //1st = Subject + Verb
 //2nd = Subject + Verb + Adjective
 
